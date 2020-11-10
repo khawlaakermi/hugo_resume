@@ -1,0 +1,41 @@
+# section information
+section:
+  name: À propos
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+company:
+  name: Example Co.
+  url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/khawla_cv_2020.pdf"
+
+# a summary about you
+summary: 'Je suis une étudiante en ingénieurie, passionnée par le monde de dev. J ai créé des application web en utilisant Angular et JEE. Je suis à l aise avec les bases de données et le monde de l orienté objet.'
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/khawlaakermi"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Motivation
+  percentage: 85
+  color: blue
+- name: Team work
+  percentage: 90
+  color: yellow
+- name: hard working
+  percentage: 85
+  color: blue
+- name: Communication
+  percentage: 85
+  color: yellow
