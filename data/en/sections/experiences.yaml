@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Éducation
+  name: Éducations
   id: experiences
   enable: true
   weight: 3
@@ -20,7 +20,7 @@ experiences:
     start: Sep 2018
 
 - company:
-    name: Institut Supérien de gestion
+    name: Institut Supérieur de gestion
     location: Tunis, Tunisie
   positions:
   - designation: Licence Fondamentale en informatique de gestion
