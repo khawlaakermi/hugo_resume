@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Compétences
+  name: Skills
   id: skills
   enable: true
   weight: 2
@@ -11,13 +11,13 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Développement web 
+- name: Web development
   icon: "/images/sections/skills/dev.png"
-  summary: "Capable de concevoir et developper des applications web côté back et front. Une bonne manipulation des RESTApis."
-- name: Développement mobile
+  summary: "Able to design and develop back and front side web applications. Good handling of RESTApis."
+- name: Mobile development
   icon: "/images/sections/skills/mov.jpg"
-  summary: "Création des applications mobiles natives en Android."
+  summary: "Creation of native mobile applications in Android."
 
 - name: Docker
   icon: "/images/sections/skills/docker.png"
-  summary: "Manipulation des conteneurs ."
+  summary: "Maniplulate applications with simple container."
