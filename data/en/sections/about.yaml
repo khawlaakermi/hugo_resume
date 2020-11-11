@@ -1,6 +1,6 @@
 # section information
 section:
-  name: À propos
+  name: About
   id: about
   enable: true
   weight: 1
@@ -15,7 +15,7 @@ company:
 resume: "files/khawla_cv_2020.pdf"
 
 # a summary about you
-summary: 'Je suis une étudiante en ingénieurie, passionnée par le monde de dev. J ai créé des application web en utilisant Angular et JEE. Je suis à l aise avec les bases de données et le monde de l orienté objet.'
+summary: 'I am an engineering student, passionate about the world of dev. I have created web applications using Angular and JEE. I am comfortable with databases and the object-oriented world'
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
